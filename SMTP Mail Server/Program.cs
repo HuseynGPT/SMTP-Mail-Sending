@@ -12,7 +12,7 @@ class Program
         Console.Write("Enter a gmail: ");
         string receiverEmail = Console.ReadLine(); //Enter receiver email
 
-        string password = "nlsesctyunihtbsw"; 
+        string password = "type your app password"; //This link will help you https://rb.gy/72lfb
 
         SmtpClient smtpClient = new SmtpClient("smtp.gmail.com")
         {
