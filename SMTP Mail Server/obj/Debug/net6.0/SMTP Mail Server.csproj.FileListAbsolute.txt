@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\bin\Debug\net6.0\SMTP Mail Server.exe
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\bin\Debug\net6.0\SMTP Mail Server.deps.json
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\bin\Debug\net6.0\SMTP Mail Server.runtimeconfig.json
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\bin\Debug\net6.0\SMTP Mail Server.dll
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\bin\Debug\net6.0\SMTP Mail Server.pdb
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\SMTP Mail Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\SMTP Mail Server.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\SMTP Mail Server.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\SMTP Mail Server.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\SMTP Mail Server.dll
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\refint\SMTP Mail Server.dll
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\SMTP Mail Server.pdb
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\SMTP Mail Server.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SMTP Mail Server\SMTP Mail Server\obj\Debug\net6.0\ref\SMTP Mail Server.dll
